@@ -1,3 +1,7 @@
 harnessApiVersion: '1.0'
 type: APPLICATION
+branchName: test_branch_qa
+gitConnector: alexci_github_connector_gitAccount
+isGitSyncEnabled: true
 isManualTriggerAuthorized: false
+repoName: test_repo
